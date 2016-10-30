@@ -1,0 +1,19 @@
+Proc Codename    : Proc Signature : Family Number : Model Number
+IvyBridge-E      : unknown        : 0x06          : 0x3E
+IvyBridge        : 0x306A         : 0x06          : 0x3A
+SandyBridge      : 0x206A         : 0x06          : 0x2A
+SandyBridge-E    : 0x206D         : 0x06          : 0x2D
+Arrandale        : 0x2065         : 0x06          : 0x25
+Gulftown         : 0x206C         : 0x06          : 0x2C
+Westmere-EX      : 0x206F         : 0x06          : 0x2F
+Clarksfield      : 0x106E         : 0x06          : 0x1E
+Bloomfield       : 0x106A         : 0x06          : 0x1A
+Nehalem-EX       : 0x206E         : 0x06          : 0x2E
+Yorkfield        : 0x1067         : 0x06          : 0x17
+Dunnington       : 0x106D         : 0x06          : 0x1D
+Clovertown       : 0x006F         : 0x06          : 0x0F
+Merom Conroe     : 0x1066         : 0x06          : 0x16
+Cedar Mill       : 0x00F6         : 0x0F          : 0x06
+Nocona Irwindale : 0x00F3         : 0x0F          : 0x03
+Prescott         : 0x00F4         : 0x0F          : 0x04
+Dothan           : 0x00FD         : 0x0F          : 0x0D

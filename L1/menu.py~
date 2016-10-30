@@ -1,0 +1,24 @@
+#! /usr/bin/env python3 -tt
+
+import helper
+
+
+# function to quit the menu
+def qquit():
+    return False
+
+menu = {'1': helper.pythoninfo, '2': helper.systeminfo,
+        '3': helper.cpuinfo, 'q': qquit}
+
+# prints the menu on the terminal and calls by selection the functions
+if __name__ == '__main__':
+    wtf = True
+    while wtf:
+        try:
+            choice = input("\n1: Python Info\n" +
+                           "2: System Info\n" +
+                           "3: CPU Info\n" +
+                           "q: Quit\n")
+            wtf = menu[choice]()
+        except KeyError:
+            print('Gültige Eingaben sind: 1 , 2 , 3 , q')
